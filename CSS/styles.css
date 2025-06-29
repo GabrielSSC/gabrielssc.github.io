@@ -97,7 +97,6 @@
     color: var(--main-text-color);
     text-decoration: none;
     max-width: 225px;
-    justify-content: center;
 }
 
 #email-container ion-icon {
